@@ -21,6 +21,8 @@ body {
   margin: 0; /* This removes black border */
 }
 
+
+
 body.blog {
   display: flex;
   justify-content: center; /* centers horizontally */
@@ -224,5 +226,145 @@ a:hover{
 .footer h4 {
   color: #d95137;
 }
+
+
+
+
+
+
+/* ----------------------------------------------------------------------------------------- */
+/* PHONE CONFIG */
+@media (max-width: 600px){
+
+  /* NAV */
+  .nav {
+    font-size: 2px;
+    background: #d95137;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 100vw;
+}
+
+.right-side label{
+  margin: 0;
+}
+
+.right-side a {
+  font-size: 15;
+  text-align: center;
+  justify-content: center;
+}
+
+
+/* BLOG LIST */
+.blog-list {
+    display: flex;
+    flex-direction: column;
+    background: #d95137;
+    text-align: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+
+.blog-list li {
+  list-style: none;
+  justify-content: center;
+  max-width: 100%;
+}
+.blog-list h1 {
+font-size: 20px;
+}
+
+.blog-list h2 {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.blog-list a {
+  font-size: 20px;
+  text-align: center;
+  justify-content: start;
+  display: block;
+}
+
+.blog-list label {
+  font-size: 15px;
+  display: block;
+}
+.blog-list hr {
+  max-width: 600%;
+  margin-top: 0.5rem;
+}
+
+
+
+  /* BLOG */
+
+  .blog {
+    background: #fedfc0;
+    flex-direction: column;
+    text-align: center;
+    align-items: left;
+    flex-wrap: wrap;
+    justify-content: start;
+    padding: 10px;
+  }
+
+  .inner-blog {
+    font-size: 10px;
+    background: #d95137;
+    justify-content: start;
+    text-align: left;          /* keeps the text aligned to the left */
+    padding: 1rem;
+    border-radius: 4px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+  .inner-blog h1 {
+    text-align: center;             
+    font-size: 25;
+    margin-bottom: 10px;
+  }
+  .inner-blog label {
+    display: block;
+    text-align: center;
+    font-size: 25;
+    font-weight: 100;
+    padding: 5%;
+  }
+  .inner-blog h2 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+
+  .inner-blog h6 {
+    font-size: 10;
+    text-align: left;
+    margin-bottom: 20px;
+    margin-top: -15px;
+    font-weight: 400;
+    text-decoration: italic;
+  }
+  .inner-blog p {
+    font-size: 15;
+    margin-bottom: 20px;
+    font-style: italic;
+  }
+
+
+  /*BLOG IMAGES */
+  .inner-blog img {
+    width: 50%;
+    height: auto;
+  }
+
+  .inner-blog img:hover {
+    width: 100%;
+  }
+}
+
+
+
 
 
