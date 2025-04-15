@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on HoveBlog</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on HoveBlog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World &amp; Beyond</title>
+      <link>http://localhost:1313/blog/my-second-post/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-second-post/</guid>
+      <description>&lt;p&gt;At 19.00 hours, ship’s time, I made my way to the launch-&#xA;ing bay. The men around the shaft stood aside to let me&#xA;pass, and I climbed down into the capsule.&#xA;Inside the narrow cockpit, there was scarcely room to&#xA;move. I attached the hose to the valve on my space suit&#xA;and it inflated rapidly. From then on, I was incapable of&#xA;making the smallest movement. There I stood, or rather&#xA;hung suspended, enveloped in my pneumatic suit and&#xA;yoke to the metal hull.&#xA;I looked up; through the transparent canopy I could see&#xA;a smooth, polished wall and, far above, Moddard’s head&#xA;leaning over the top of the shaft. He vanished, and sud-&#xA;denly I was plunged in darkness: the heavy protective&#xA;cone had been lowered into place. Eight times I heard the&#xA;hum of the electric motors which turned the screws, fol-&#xA;lowed by the hiss of the shock-absorbers. As my eyes grew&#xA;accustomed to the dark, I could see the luminous circle of&#xA;the solitary dial.&#xA;A voice echoed in my headphones:&#xA;“Ready Kelvin?”&#xA;“Ready, Moddard,” I answered.&#xA;“Don’t worry about a thing. The Station will pick you&#xA;up in flight. Have a good trip!”&#xA;There was a grinding noise and the capsule swayed. My&#xA;1&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vice City</title>
+      <link>http://localhost:1313/blog/my-first-post/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;the-world-is-yours&#34;&gt;The World Is Yours&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to Vice City, a huge urban sprawl stretching from the beach to the swamps and the glitz to the ghetto, a town brimming with delights and degradation.&lt;/p&gt;&#xA;&lt;p&gt;Having just made it back onto the streets of Liberty City after a long stretch inside, Tommy Vercetti is sent to Vice City by his old boss, Sonny Forelli.&lt;/p&gt;&#xA;&lt;p&gt;But all does not go smoothly upon his arrival in the glamorous, hedonistic metropolis of Vice City.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

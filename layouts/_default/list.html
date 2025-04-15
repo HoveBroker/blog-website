@@ -1,0 +1,15 @@
+{{ define "content" }}
+
+  <h1>{{ .Title }}</h1>
+  <h2>Archive of all blogs.</h2>
+    
+  <ul>
+  {{ range .Pages }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <label> {{ .Date.Format "2 Jan, 2006" }} </label>
+  <hr>
+  {{ end }}
+  </li>
+  </ul>
+{{ end }}

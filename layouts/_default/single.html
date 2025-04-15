@@ -1,0 +1,18 @@
+{{ define "content" }}
+<html>
+  
+<link rel="stylesheet" href="/css/styles.css">
+
+
+<section>
+  <div class="inner-blog">
+    
+<h1>{{ .Title }}</h1>
+<label>{{ .Date.Format "2 Jan, 2006" }}</label>
+<div>
+  {{ .Content }}
+</div>
+</div>
+  </section>
+</html>
+{{ end }}

@@ -1,0 +1,47 @@
+<!--base of the website-->
+
+
+<html lang="en">
+  
+  <head>
+    <meta name="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Site.Title }}</title>
+
+
+    <!--This is import for the font, used throughout the website -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@200..800&display=swap" rel="stylesheet">
+
+    <!--This is import for the font, used throughout the website -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@200..800&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+
+
+   <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css">
+    <link rel="stylesheet"  href="/css/styles.css">
+  </head>
+</html>
+
+
+<body>
+  
+  <!--This *should* include the header.html to reuse for the website-->
+  {{ partial "header.html" }}
+
+
+  <!--main class is 'hero'.-->
+  <!--<main class="{{ if eq .Section "blog" }}blog{{ else }}hero{{ end }}">-->
+
+  <main class="
+               {{ if and (eq .Section "blog") (eq .Kind "page") }}blog{{ else if and (eq .Section "blog") (eq .Kind "section") }}blog-list{{ else if and (eq .Section "development") (eq .Kind "section") }}blog-list{{ else if and (eq .Section "development") ( eq .Kind "page")}}blog{{ else }}hero{{ end }}
+               ">
+    
+    <!--This will display the main content of the website-->
+    {{ block "content" . }} {{ end }}
+  </main>
+    <!--This will display the footer-->
+  {{ partial "footer.html" }}
+</body>

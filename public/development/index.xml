@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on HoveBlog</title>
+    <link>http://localhost:1313/development/</link>
+    <description>Recent content in Development on HoveBlog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Morrowind</title>
+      <link>http://localhost:1313/development/test_dev/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/development/test_dev/</guid>
+      <description>&lt;h2 id=&#34;morrowind-revisited&#34;&gt;Morrowind Revisited&lt;/h2&gt;&#xA;&lt;p&gt;Troubled times have come to Mournhold.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22320/0000009069.1920x1080.jpg?t=1569959880&#34; alt=&#34;Morrowind&#34;&gt;&lt;/p&gt;&#xA;&lt;h6 id=&#34;this-should-work&#34;&gt;This should work.&lt;/h6&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://assetsio.gnwcdn.com/01b_1Z6IXG0.jpg?width=1200&amp;amp;height=1200&amp;amp;fit=bounds&amp;amp;quality=70&amp;amp;format=jpg&amp;amp;auto=webp&#34; alt=&#34;Morrowind1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;A ruthless new king has taken the throne, removingg any enemies that stand in his way.&lt;/p&gt;&#xA;&lt;p&gt;Meanwhile, the goddess Almalexia searches for ways to restore her waning power and the god Sotha Sil has plans that may threaten all of Morrowind. THe fate of Morrowind is in your hands&amp;hellip; again&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://assetsio.gnwcdn.com/01b_1Z6IXG0.jpg?width=1200&amp;amp;height=1200&amp;amp;fit=bounds&amp;amp;quality=70&amp;amp;format=jpg&amp;amp;auto=webp&#34; alt=&#34;Morrowind1&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
