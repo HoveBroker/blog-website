@@ -4,3 +4,4 @@ title = 'HoveBlog'
 relativeURLs = true
 publishDir = "docs"
 uglyURLs = true
+relativeURLs = true
