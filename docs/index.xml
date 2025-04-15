@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HoveBlog</title>
+    <link>https://hovebroker.github.io/blog-website/</link>
+    <description>Recent content on HoveBlog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hovebroker.github.io/blog-website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World &amp; Beyond</title>
+      <link>https://hovebroker.github.io/blog-website/blog/my-second-post/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://hovebroker.github.io/blog-website/blog/my-second-post/</guid>
+      <description>&lt;p&gt;At 19.00 hours, ship’s time, I made my way to the launch-&#xA;ing bay. The men around the shaft stood aside to let me&#xA;pass, and I climbed down into the capsule.&#xA;Inside the narrow cockpit, there was scarcely room to&#xA;move. I attached the hose to the valve on my space suit&#xA;and it inflated rapidly. From then on, I was incapable of&#xA;making the smallest movement. There I stood, or rather&#xA;hung suspended, enveloped in my pneumatic suit and&#xA;yoke to the metal hull.&#xA;I looked up; through the transparent canopy I could see&#xA;a smooth, polished wall and, far above, Moddard’s head&#xA;leaning over the top of the shaft. He vanished, and sud-&#xA;denly I was plunged in darkness: the heavy protective&#xA;cone had been lowered into place. Eight times I heard the&#xA;hum of the electric motors which turned the screws, fol-&#xA;lowed by the hiss of the shock-absorbers. As my eyes grew&#xA;accustomed to the dark, I could see the luminous circle of&#xA;the solitary dial.&#xA;A voice echoed in my headphones:&#xA;“Ready Kelvin?”&#xA;“Ready, Moddard,” I answered.&#xA;“Don’t worry about a thing. The Station will pick you&#xA;up in flight. Have a good trip!”&#xA;There was a grinding noise and the capsule swayed. My&#xA;1&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Morrowind</title>
+      <link>https://hovebroker.github.io/blog-website/development/test_dev/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://hovebroker.github.io/blog-website/development/test_dev/</guid>
+      <description>&lt;h2 id=&#34;morrowind-revisited&#34;&gt;Morrowind Revisited&lt;/h2&gt;&#xA;&lt;p&gt;Troubled times have come to Mournhold.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22320/0000009069.1920x1080.jpg?t=1569959880&#34; alt=&#34;Morrowind&#34;&gt;&lt;/p&gt;&#xA;&lt;h6 id=&#34;this-should-work&#34;&gt;This should work.&lt;/h6&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://assetsio.gnwcdn.com/01b_1Z6IXG0.jpg?width=1200&amp;amp;height=1200&amp;amp;fit=bounds&amp;amp;quality=70&amp;amp;format=jpg&amp;amp;auto=webp&#34; alt=&#34;Morrowind1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;A ruthless new king has taken the throne, removingg any enemies that stand in his way.&lt;/p&gt;&#xA;&lt;p&gt;Meanwhile, the goddess Almalexia searches for ways to restore her waning power and the god Sotha Sil has plans that may threaten all of Morrowind. THe fate of Morrowind is in your hands&amp;hellip; again&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://assetsio.gnwcdn.com/01b_1Z6IXG0.jpg?width=1200&amp;amp;height=1200&amp;amp;fit=bounds&amp;amp;quality=70&amp;amp;format=jpg&amp;amp;auto=webp&#34; alt=&#34;Morrowind1&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vice City</title>
+      <link>https://hovebroker.github.io/blog-website/blog/my-first-post/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://hovebroker.github.io/blog-website/blog/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;the-world-is-yours&#34;&gt;The World Is Yours&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to Vice City, a huge urban sprawl stretching from the beach to the swamps and the glitz to the ghetto, a town brimming with delights and degradation.&lt;/p&gt;&#xA;&lt;p&gt;Having just made it back onto the streets of Liberty City after a long stretch inside, Tommy Vercetti is sent to Vice City by his old boss, Sonny Forelli.&lt;/p&gt;&#xA;&lt;p&gt;But all does not go smoothly upon his arrival in the glamorous, hedonistic metropolis of Vice City.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
