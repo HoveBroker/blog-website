@@ -1,6 +1,6 @@
 baseURL = "https://hovebroker.github.io/blog-website/"
 languageCode = 'en-us'
 title = 'HoveBlog'
-relativeURLs = true
+relativeURLs = false 
 publishDir = "docs"
 canonifyurls = true
